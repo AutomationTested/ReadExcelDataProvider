@@ -27,7 +27,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="MyAutoTest" target="1.8" />
       <module name="ReadExcelDataProvider" target="1.5" />
     </bytecodeTargetLevel>
   </component>
